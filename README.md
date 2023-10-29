@@ -38,4 +38,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lance321-hub&show_icons=true&locale=en" alt="lance321-hub" /></p>
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=225vgwfosypus77yr3ag3xnmq&unique={true|1|on|yes})
+<img src="https://raw.githubusercontent.com/Lance321-hub/Lance321-hub/output/snake.svg" alt="Snake animation" />
+
+###
