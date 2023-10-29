@@ -1,7 +1,7 @@
 <h1 align="left">Hey 👋 What's up?</h1>
 
 ###
-a
+Hello
 <p align="left">My name is Lance Anthony Cortes and I'm a BSIS student from Dr. Filemon C. Aguilar Memorial College of Las Pinas</p>
 
 ###
