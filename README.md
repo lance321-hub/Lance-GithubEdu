@@ -38,12 +38,12 @@
 
 | Syntax | Description |
 | --- | ----------- |
-| Header | Title |
+| 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lance321-hub&show_icons=true&locale=en" alt="lance321-hub" /></p> | <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWIxbGJpY3dpcXNsMjNkZ2dvZDZiODM4cnV0cmc1NXR4Nml6cHpjayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l44Qk4HgDkdiTWf4I/giphy.gif" 
+alt="Never give up never what?" /> |
 | Paragraph | Text |
 
-<td><p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lance321-hub&show_icons=true&locale=en" alt="lance321-hub" width=270 height=480/></p> </td>
 
-<td><img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWIxbGJpY3dpcXNsMjNkZ2dvZDZiODM4cnV0cmc1NXR4Nml6cHpjayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l44Qk4HgDkdiTWf4I/giphy.gif" 
-alt="Never give up never what?" width=270 height=480/> </td>
+
 
 ###
